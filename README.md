@@ -14,8 +14,8 @@ After 5 Rounds, The Winner is announced and then the Game is restarted again. <b
 
 <b><h2>How to use the project?</h2></b>
 <h3> 2 ways to use the Project</h3>
-<h4><center>Way 1</center><h4>
-Step 1: Click on <font face="verdana" color="green">Clone or Download</font> Button on upper right corner of screen.<br>
+<h4><center>Way 1</center></h4>
+Step 1: Click on <b><font face="verdana" color="green">Clone or Download</font></b> Button on upper right corner of screen.<br>
 Step 2: Open Android Studio (Install Android Studio if you havent already. here is the <a href="https://developer.android.com/studio/install.html">Link</a>.)<br>
 Step 3: On Menu, File->Open->select the downloaded folder from step 1.<br>
 Step 4: Wait till the Studio loads the App<br>
