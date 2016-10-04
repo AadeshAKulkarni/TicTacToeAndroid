@@ -12,6 +12,18 @@ After 5 Rounds, The Winner is announced and then the Game is restarted again. <b
 ![Game](3.PNG "Game Screen")
 ![Activity](4.PNG "Result Screen")
 
+<b><h2>How to use the project?</h2></b>
+<h3> 2 ways to use the Project</h3>
+<h4><center>Way 1</center><h4>
+Step 1: Click on <b><font color="green">Clone or Download </font></b> Button on upper right corner of screen.
+Step 2: Open Android Studio (Install Android Studio if you havent already. here is the <a href="https://developer.android.com/studio/install.html">Link</a>.)
+Step 3: On Menu, File->Open->select the downloaded folder from step 1.
+Step 4: Wait till the Studio loads the App
+Step 5: Click on the Green Run Button to start the App in an Emulator.
+<h4><center>Way 2</center></h4>
+Step 1: Download the .apk file on your mobile phone and install the App.
+Step 2: Run the App on your Android Phone.
+
 <b><h2>Future Scope of this Project:</h2></b><br>
 1. Play Againist CPU (Single Player) --- // probably need to implement MinMax BackTracking Algorithm.<br>
 2. A Settings Screen (to adjust difficulty level if playing with the CPU, also number of rounds to play in each game, etc)<br>
