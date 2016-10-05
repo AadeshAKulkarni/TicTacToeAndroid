@@ -21,7 +21,7 @@ Step 3: On Menu, File->Open->select the downloaded folder from step 1.<br>
 Step 4: Wait till the Studio loads the App<br>
 Step 5: Click on the Green Run Button to start the App in an Emulator.<br>
 <h4><center>Way 2</center></h4>
-Step 1: Download the <b>TicTacToe.apk</b> file on your mobile phone and install the App.<br>
+Step 1: Download the <b>apk-debug.apk</b> file on your mobile phone and install the App.<br> (Chances are that this might throw a "parse error because .apk files cannot be downloaded from github apparently. But, I assure you the App works :P ")
 Step 2: Run the App on your Android Phone.<br>
 
 <b><h2>Future Scope of this Project:</h2></b><br>
